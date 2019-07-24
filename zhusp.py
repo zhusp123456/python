@@ -1,5 +1,5 @@
 import time
-def function():
+def master():
 	print("hello,word!")
 	print(time.time())
     return 0
