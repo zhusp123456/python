@@ -1,6 +1,6 @@
-def zhufeixiang():
-	print("zhufeixiang")
-	return 0
+zhufeixiang
+dengqifang
+
 
 
 
