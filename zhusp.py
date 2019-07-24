@@ -6,8 +6,7 @@ print("writed by dafei")
 print("sanpang is a good man")
 
 
-def function():
-	pass
+#邓棋方
 
 
 
