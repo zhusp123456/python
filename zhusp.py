@@ -1,6 +1,8 @@
 import time
-print("三胖科技公司")
+print("hello,word!")
 print(time.time())
+print("writed by dafei")
+
 
 
 
