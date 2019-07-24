@@ -1,8 +1,9 @@
 import time
-print("hello,word!")
-print(time.time())
-print("writed by dafei")
-
+def function():
+	print("hello,word!")
+	print(time.time())
+    return 0
+    
 
 
 
