@@ -1,11 +1,16 @@
 import time
-import os
-print("hello,word!")
-print(time.time())
-print("writed by dafei")
-print("sanpang is a good man")
+def master():
+	print("hello,word!")
+	print(time.time())
+    return 0
 
 #朱飞翔
+def zhufeixiang():
+	print("zhufeixiang")
+	return 0
+
+
+
 
 
 
