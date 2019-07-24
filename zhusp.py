@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import time
 def master():
 	print("hello,word!")
