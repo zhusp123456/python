@@ -8,3 +8,4 @@ zhufeixiang
 错了啊，呀注意一下！
 def master():
 	pass
+    prinnts
